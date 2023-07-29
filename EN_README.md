@@ -4,7 +4,7 @@ This project serves to schedule and manage social media posts using the Google S
 
 ## Dependency Installation:
 
-´pip install -r requirements.txt´
+```pip install -r requirements.txt```
 
 ## Preparation for Launch
 
@@ -28,7 +28,7 @@ To launch the bot, you need to:
 
 ## Launch
 
-´python google_sheets_watcher.py´
+```python google_sheets_watcher.py```
 
 ## Result
 
